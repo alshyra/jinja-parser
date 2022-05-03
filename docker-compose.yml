@@ -1,0 +1,9 @@
+version: '3.7'
+
+services:
+  jinja-parser:
+    image: jinja-parser
+    build:
+      context: .
+    volumes:
+      - .:/app

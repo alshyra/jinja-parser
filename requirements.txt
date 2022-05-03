@@ -1,4 +1,5 @@
-Jinja2==2.10.1
+Jinja2==3.1.2
 PyYAML==5.3.1
 ruamel.yaml==0.17.20
 ruamel.yaml.clib==0.2.6
+colorama==0.4.4
